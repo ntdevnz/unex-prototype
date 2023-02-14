@@ -1,0 +1,9 @@
+.body-3d {
+  height: 800px;
+	overflow: visible;
+}
+canvas {
+  height: 400px;
+  width: 100%;
+  display: block;
+}
